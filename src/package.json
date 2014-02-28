@@ -1,0 +1,10 @@
+{
+  "name": "GhostTagCloudGenerator",
+  "version": "0.0.0",
+  "description": "GhostTagCloudGenerator",
+  "main": "app.js",
+  "author": {
+    "name": "Jeff",
+    "email": ""
+  }
+}
